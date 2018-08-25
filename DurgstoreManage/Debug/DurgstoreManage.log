@@ -1,0 +1,9 @@
+﻿  OrderCheckPanel.cpp
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\date.h(42): warning C4018: “<”: 有符号/无符号不匹配
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\medicien.h(40): warning C4244: “return”: 从“const double”转换到“int”，可能丢失数据
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\utils.h(99): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\utils.h(109): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\utils.h(137): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\utils.h(151): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\c语言学习\c++project\durgstoremanage\durgstoremanage\utils.h(152): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  DurgstoreManage.vcxproj -> E:\c语言学习\c++Project\DurgstoreManage\Debug\DurgstoreManage.exe
